@@ -6,7 +6,13 @@
     display: flex;
 }
  aside{
-
-    width: clamp(34rem, 25vw, 44rem);
+    width: clamp(24rem, 25vw, 44rem);
     background: linear-gradient(329.54deg, #1586D6 0%, #15D6D6 100%);
+    padding: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+ aside h2{
+     
  }

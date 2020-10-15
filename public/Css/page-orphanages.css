@@ -5,7 +5,7 @@
 
     display: flex;
 }
-<<<<<<< HEAD
+ 
 
 aside {
     width: clamp(24rem, 25vw, 44rem);
@@ -77,4 +77,4 @@ a.create-orphanages:hover {
  aside h2{
      
  }
->>>>>>> c20742b40898af9741c1ef14af0964978e1c69fd
+

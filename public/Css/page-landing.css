@@ -10,7 +10,7 @@
    
 }
 
-#container{
+#container {
     margin: auto;
     width: min(90%, 112rem);
 }
@@ -41,9 +41,6 @@ main h1 {
 } 
 
 
-.visit a:hover {
-    background: #96feff;
-}
 
 .visit a {
     width: 8rem;
@@ -63,9 +60,12 @@ main h1 {
     animation-delay: 250ms;
 }
 
+.visit a:hover {
+    background: #96feff;
+}
+
 
 /* desktop version*/
-
 @media(min-width: 760px){
     #container {
         padding: 5rem 2rem;

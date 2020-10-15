@@ -67,11 +67,11 @@ main h1 {
 /* desktop version*/
 
 @media(min-width: 760px){
-    #container{
+    #container {
         padding: 5rem 2rem;
-        /*shortthand background: image repet position /size*/
-        background: url("../images/bg.svg") no-repeat 80%/ clemp(30rem, 54vw, 56rem);
-        
+       /*shoorthand background: image repeat position/size */
+       background: url("../images/bg.svg") no-repeat 80% / clamp(30rem, 54vw, 56rem);
+       /*background-position:top center;*/ 
     }
     header {
         display: flex;

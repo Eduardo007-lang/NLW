@@ -19,15 +19,8 @@ const icon = L.icon({
     popupAnchor: [170, 2]
 })
 
-//create popup overlay
 
-const popup = L.popup({
 
-    closeButton: false,
-    className: 'map-popup',
-    minWidth: 240,
-    minHeight: 240
-}).setContent('Lar das meninas <a href="orphanage.html?id=1" class="choose-orphanage"> <img src="./public/imagees/arrow-white.svg"</a>') 
 
 
 

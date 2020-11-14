@@ -56,11 +56,21 @@ aside.sidebar footer button:hover {
     overflow: hidden;
 }
 
+
 .orphanage-details img {
     width: 100%;
     height: 30rem;
     object-fit: cover;
 
+}
+.open-tails img {
+    width: 40px ; 
+    height: 40px ;
+}
+
+.open-on-weekends img {
+    width: 40px;
+    height: 40px;
 }
 .images {
     display: grid;
